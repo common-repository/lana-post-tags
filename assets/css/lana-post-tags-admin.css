@@ -1,0 +1,15 @@
+body.wp-admin #tagsdiv-post_tag #link-post_tag {
+    visibility: hidden;
+}
+
+body.wp-admin #tagsdiv-post_tag #post_tag .jaxtag {
+    display: none;
+}
+
+body.wp-admin #tagsdiv-post_tag #tagcloud-post_tag a {
+    display: block;
+}
+
+body.wp-admin #tagsdiv-post_tag .the-tagcloud a {
+    font-size: 12px !important;
+}
